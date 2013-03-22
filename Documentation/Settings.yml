@@ -1,0 +1,13 @@
+# Settings.yml
+---
+conf.py:
+  ##==========================================
+  ## define configuration data for conf.py as
+  ## "parameter: value" pairs here:
+  ##------------------------------------------
+  todo_include_todos: True
+  copyright: 2013 to now
+  project: Documentation Contribution Guide
+  version: 0.1
+  release: 0.1.0
+...
