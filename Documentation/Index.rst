@@ -98,7 +98,7 @@ given task.
    :titlesonly:
    
    WaysToWork/Index
-   directives/*
+   Directives/Index
    FinalPages/*
 
 
