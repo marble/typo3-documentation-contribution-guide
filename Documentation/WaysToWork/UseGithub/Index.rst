@@ -44,7 +44,7 @@ What you do
 
    - What is the **URL** of the ./Documentation folder in your repository?
 
-     *Example:* https://github.com/marble/typo3-documentation-contribution-guide/Documentation
+     *Example:* https://github.com/marble/typo3-documentation-contribution-guide/tree/master/Documentation
 
    - What is the intended **title** of your manual?
 
