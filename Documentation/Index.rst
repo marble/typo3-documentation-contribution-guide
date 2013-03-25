@@ -11,23 +11,39 @@
 Documentation Contribution Guide (draft)
 ========================================
 
-:Version:         0.0.1
-:Language:        en
-:Description:     ...
-:Copyright:       2013
-:Author:          Martin Bless, Documentation Team
+:Author:          Martin Bless
+:Buildinfo:       `Make folder <_make>`_
+:Copyright:       2013 up to now
+:Description:     This is the place very new notes
 :Email:           martin.bless@typo3.org
-:License:         `Open Content License`_
+:Language:        en,de
+:License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
+:Related drafts:  `Incoming Notes <http://docs.typo3.org/typo3cms/drafts/github/marble/IncomingNotes/>`_
 :Rendered:        |today|
+:Version:         0.0.0
+
 
 Sitemap
 =======
 :ref:`Sitemap <sitemap>`
 
+License
+=======
+
+`CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_ 
+Creative Commons Attribution-ShareAlike 3.0 Unported.
+You are free
+- to share: to copy, distribute and transmit the work
+- to remix: to adapt the work
+- to make commercial use of the work
+
 Sources
 =======
 The sources of this draft are located at
 `Github <https://github.com/marble/typo3-documentation-contribution-guide>`_.
+
+Info
+====
 
 The content of this document is related to TYPO3, a GNU/GPL 
 CMS/Framework available from `typo3.org`_.
