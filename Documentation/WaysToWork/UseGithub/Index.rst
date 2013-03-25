@@ -67,18 +67,22 @@ What you do
    Step 1
       .. figure:: 001-settings.png
          :class: screenshot-detail
+         :align: left
 
    Step 2
       .. figure:: 002-service-hooks.png
          :class: screenshot-detail
+         :align: left
 
    Step 3
       .. figure:: 003-webhook-url.png
          :class: screenshot-detail
+         :align: left
 
    Step 4
       .. figure:: 004-enter-the-url.png
          :class: screenshot-detail
+         :align: left
 
 
 .. _Github: http://github.com
