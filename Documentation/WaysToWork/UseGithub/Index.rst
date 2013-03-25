@@ -32,7 +32,7 @@ What you do
 +  Create a project with an appropriate name like "My-TYPO3-Manual"
    at Github_.
 
-   *Example:* https://github.com/marble/notes-about-TYPO3-ReST-stuff
+   *Example:* https://github.com/marble/typo3-documentation-contribution-guide
 
 +  Download a snapshot of the `Official Manual Example`__
    and use the subfolder ``./Documentation`` as a starter. Edit the files
@@ -44,7 +44,7 @@ What you do
 
    - What is the **URL** of the ./Documentation folder in your repository?
 
-     *Example:* https://github.com/marble/notes-about-TYPO3-ReST-stuff/tree/master/DocumentationContributionGuide/Documentation
+     *Example:* https://github.com/marble/typo3-documentation-contribution-guide/Documentation
 
    - What is the intended **title** of your manual?
 
@@ -94,13 +94,12 @@ new rendering of your manual whenever you do a push to Github. The result
 will be somewhere at ``http://docs.typo3.org/.../drafts/[YOUR_GITHUB_NAME]/ManualName``.
 We will let you know. *Example:* `Documentation Contribution Guide (Draft)`__
 
-__ http://docs.typo3.org/typo3cms/drafts/NotesAboutTYPO3ReSTStuff/DocumentationContributionGuide/
+__ http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationContributionGuide/
 
-You can find the logfiles of the rendering process at
-``http://docs.typo3.org/~mbless/github.com/[YOUR_GITHUB_NAME]/ManualName.git.make``.
-*Example:* `notes-about-TYPO3-ReST-stuff.git.make.DocumentationContributionGuide`__
+You can find the logfiles of the rendering process in a subfolder "_make". 
+*Example:* `DocumentationContributionGuide/_make`__.
 
-__ http://docs.typo3.org/~mbless/github.com/marble/notes-about-TYPO3-ReST-stuff.git.make.DocumentationContributionGuide/
+__ http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationContributionGuide/_make/
 
 
 What Github does
