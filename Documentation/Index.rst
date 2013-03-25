@@ -97,8 +97,9 @@ given task.
    :glob:
    :titlesonly:
    
-   WaysToWork/Index
    Directives/Index
+   SyntaxHighlighting/Index
+   WaysToWork/Index
    FinalPages/*
 
 
