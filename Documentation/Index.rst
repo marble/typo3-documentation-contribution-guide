@@ -27,6 +27,14 @@ Sitemap
 =======
 :ref:`Sitemap <sitemap>`
 
+Some drafts
+===========
+
+`Documentation Contribution Guide <http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationContributionGuide/>`_,
+`Incoming Notes <http://docs.typo3.org/typo3cms/drafts/github/marble/IncomingNotes/>`_,
+`Manage Github Repositories <http://docs.typo3.org/typo3cms/drafts/github/marble/ManageGithubRepositories/>`_,
+
+
 License
 =======
 
