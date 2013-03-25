@@ -70,9 +70,9 @@ What you do
          :align: left
 
    Step 2
-      .. figure:: 002-service-hooks.png
+      .. image:: 002-service-hooks.png
          :class: screenshot-detail
-         :align: left
+         :align: center
 
    Step 3
       .. figure:: 003-webhook-url.png
