@@ -94,6 +94,7 @@ given task.
    :titlesonly:
    
    Directives/Index
+   Installation/Index
    SyntaxHighlighting/Index
    WaysToWork/Index
    FinalPages/*
