@@ -25,3 +25,5 @@ Ways to work
    :titlesonly:
 
    UseGithub/Index
+
+:ref:`Sitemap <sitemap>`

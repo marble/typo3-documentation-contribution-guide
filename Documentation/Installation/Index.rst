@@ -17,3 +17,5 @@ Installation
    :titlesonly:
 
    *
+
+:ref:`Sitemap <sitemap>`

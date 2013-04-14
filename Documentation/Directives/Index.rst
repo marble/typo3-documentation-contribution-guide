@@ -17,3 +17,5 @@ Directives
    :titlesonly:
 
    *
+
+:ref:`Sitemap <sitemap>`

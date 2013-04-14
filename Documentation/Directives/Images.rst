@@ -125,3 +125,5 @@ block style.
 .. _ReST reference name: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#reference-names
 .. _URI: http://en.wikipedia.org/wiki/Uniform_resource_identifier
 .. _length units: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#length-units
+
+:ref:`Sitemap <sitemap>`

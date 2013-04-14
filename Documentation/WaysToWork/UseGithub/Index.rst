@@ -171,3 +171,5 @@ Have fun, start writing!
    :titlesonly:
 
    subsubtopic/Index
+
+:ref:`Sitemap <sitemap>`

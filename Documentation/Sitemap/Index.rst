@@ -15,3 +15,4 @@ Sitemap
 
    ../Index
 
+:ref:`Sitemap <sitemap>`

@@ -95,6 +95,7 @@ given task.
    
    Directives/Index
    Installation/Index
+   QandA/Index
    SyntaxHighlighting/Index
    WaysToWork/Index
    FinalPages/*
@@ -102,3 +103,5 @@ given task.
 
 .. _Open Content License: http://www.opencontent.org/opl.shtml
 .. _typo3.org: http://typo3.org/
+
+:ref:`Sitemap <sitemap>`

@@ -3,16 +3,18 @@
 .. --------------------------------------------------
 .. -*- coding: utf-8 -*- with BOM.  ÄÖÜäöüß
 
-.. include:: ../../../Includes.txt
+.. include:: ../Includes.txt
 
 
 =================================
-subsubtopic
+Server
 =================================
 
-.. toctree: :
+.. toctree::
    :maxdepth: 5
    :glob:
    :titlesonly:
 
-   subsubsubtopic/Index
+   subtopic/Index
+
+:ref:`Sitemap <sitemap>`

@@ -13,3 +13,6 @@ Index: Labels for Crossreferencing
 ==================================
 
 .. ref-targets-list::
+
+
+:ref:`Sitemap <sitemap>`

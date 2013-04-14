@@ -115,3 +115,5 @@ Use the "setuptools"
     easy_install docutils
     easy_install pyyaml
     easy_install PIL
+    
+:ref:`Sitemap <sitemap>`    

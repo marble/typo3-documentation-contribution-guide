@@ -16,3 +16,5 @@ subtopic
    :titlesonly:
 
    subsubtopic/Index
+
+:ref:`Sitemap <sitemap>`
