@@ -10,4 +10,5 @@ conf.py:
   project: Documentation Contribution Guide
   version: 0.1
   release: 0.1.0
+  html_theme: t3org_presentation
 ...

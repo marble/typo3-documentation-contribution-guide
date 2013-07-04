@@ -93,6 +93,7 @@ given task.
    :glob:
    :titlesonly:
    
+   T3DD13/Index
    Directives/Index
    Installation/Index
    QandA/Index
