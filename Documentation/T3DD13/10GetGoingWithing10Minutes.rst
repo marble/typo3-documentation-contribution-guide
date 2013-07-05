@@ -6,21 +6,15 @@
 .. include:: ../Includes.txt
 
 
-==========================================
-The "ReST Documentation Day" at the T3DD13
-==========================================
+  
 
-2013-07-06
-
-**Martin Bless**
-
-Welcome!
-
+Get going with ReST within 10 Minutes
+=====================================
 
 .. toctree::
    :maxdepth: 5
    :glob:
    :titlesonly:
 
-   *
+   GetGoing/*
    
